@@ -1,6 +1,8 @@
 # Prerequisites
 *.d
 
+# To be Confirmed
+
 # Object files
 *.o
 *.ko
