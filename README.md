@@ -13,3 +13,25 @@ int main() {
   return 0;
 }
 ```
+
+```
+printf("Hello World!");
+printf("And have a nice day!");
+return 0;
+```
+
+```
+printf("This sentence will work with Quotation marks at start and end of the line!");
+printf(This sentence will produce an error.); // Quotation marks at start and end is missing!
+```
+
+```
+#include <stdio.h>
+
+int main() {
+  printf("Hello World!");
+  printf("Look I am learning C.");
+  printf("How awesome is this!");
+  return 0;
+}
+```
